@@ -1,5 +1,4 @@
 # patika-project-2
-patika 2
 
 insertion Sort
 Soru 1: [22,27,16,2,18,6] -> Insertion Sort
